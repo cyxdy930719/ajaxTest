@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AjaxTest1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AjaxTest1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ajaxTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ajaxTest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.47.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.38.jar" />
+          <element id="file-copy" path="D:/java12班/软件/fastjson-1.2.47.jar" />
+          <element id="file-copy" path="D:/java12班/软件/jstl-1.2.jar" />
+          <element id="file-copy" path="D:/java12班/软件/mysql-connector-java-5.1.38.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
